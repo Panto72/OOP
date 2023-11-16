@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Tact1st\Tact1st\bin\Debug\Tact1st.exe.config
+C:\Users\User\source\repos\Tact1st\Tact1st\bin\Debug\Tact1st.exe
+C:\Users\User\source\repos\Tact1st\Tact1st\bin\Debug\Tact1st.pdb
+C:\Users\User\source\repos\Tact1st\Tact1st\obj\Debug\Tact1st.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tact1st\Tact1st\obj\Debug\Tact1st.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Tact1st\Tact1st\obj\Debug\Tact1st.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tact1st\Tact1st\obj\Debug\Tact1st.exe
+C:\Users\User\source\repos\Tact1st\Tact1st\obj\Debug\Tact1st.pdb
